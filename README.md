@@ -1,2 +1,2 @@
 <h1>Important</h1>
-Go to <a href="https://classroom.google.com" target="-blank"> Hi</a>
+Go to <a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
